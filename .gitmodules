@@ -1,0 +1,12 @@
+[submodule "CannyDetector"]
+	path = CannyDetector
+	url = https://github.com/jm12138/CannyDetector
+[submodule "EdgeOPs"]
+	path = EdgeOPs
+	url = https://github.com/jm12138/EdgeOPs
+[submodule "RCF-Paddle"]
+	path = RCF-Paddle
+	url = https://github.com/jm12138/RCF-Paddle
+[submodule "PiDiNet-Paddle"]
+	path = PiDiNet-Paddle
+	url = https://github.com/jm12138/PiDiNet-Paddle
